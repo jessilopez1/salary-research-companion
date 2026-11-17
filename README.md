@@ -1,0 +1,1 @@
+# salary-research-companion
